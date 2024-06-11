@@ -1,1 +1,19 @@
-# ai-case-studyKavita
+# ai for better patient-care
+## ai is being used for efficiency in time management and quality interaction between physician and patient point of contact
+* Augmedix
+Website
+http://www.augmedix.com
+* Founded in 2012 by two Stanford graduates, based in San Francisco, USA, and additional offices in Bangladesh, India.
+* Founders are Ian Kazi Shakil and Pelu Tran.
+* Shakil, after graduating in Biomedical Engineering, was woring in healthcare for Edwards Life Sciences. While working here, he realized the struggles physician go through while dealing with EMR's and documentation after patient interaction. Pelu dropped out of medical school to partner with Shakil to form a start-up "glass business" using google glasses. Initially, they started wit 10 to 20 people in the first 2 years. The glasses basically enabled to transmit the doctor & patient interaction to a recording device. This recording would be transmitted to a scribe at the other end of the world to be put into script format and ultimately made available on the patient's EMR on the EHR such as Epic of Cerner.
+* Augmedix has 24 investors including HCA Healthcare and Redmile Group. Augmedix closed its last funding round on Nov 15, 2023, from a Post-IPO Equity round.
+## Business Activities of Augmedix
+* Augmedix has a market cap or net worth of $138.91 million. (Nasdaq: AUGX) provides automated medical documentation and data services to large healthcare systems and physician practices, supporting medical offices, clinics, hospitals, emergency departments and telemedicine nationwide.
+The current company size includes 501-1,000 employees with 621 associate members.
+* The ER in a hospital has a high inflow of patients needing to get triaged. The physicians have limited time between interacting with the patient, making a diagnosis based on history at the point of contact if the patient is brand new to the healthsystem and then documenting all this before triaging the patient or discharging with limited treatment. So, Augmedix comes in the documentation part of patient care, because according to the company's website it can save the physician valuable time that can be dedicated to acutal clinical care.
+* According to Augmedix, some of the biggest challenges faced in the ED include 57% difficulty capturing all details during patient interaction, 22% time wasted dictating notes after a long shift, and 22% keeping tract of unfinished notes between shifts. Hence, timely and accurate medical documentation is vital for informed diagnoses, treatment plans and clinical care; since, EMR are permanent records for the patient in every encounter within the healthsystem for use by various providers.
+* According to the Department of Labor, there are 215,500 medical records and health information technicians, 58,000 medical transcriptionists, and 686,600 medical assistants employed in the United States, including medical scribes.
+In my opinion this company offers off-shore scribes that comes with cost savings for them. Some of the dictation software being used in the healthsystem such as dragon does not have the advantage of scribe and the user has to proof read the document and make corrections, which is again tedious and time consuming. Some, other compaines do not have the advantage of sending their dictations off-shore and therefor end up bearing the high-cost of scribes within the States.
+*Augmedix competition may include Iora Health, Alignment Health, and FluidAI Medical.
+* The advancements that followers of Augmedix want to see as the next AI regulations continue to evolve include 50% hope to see data integrity, 20% want transparency measures, 15% are interested in an enhanced audit trail, and 15% want to see user activity monitoring.
+* https://www.linkedin.com/company/augmedixinc#:~:text=The%20platform%20transforms%20natural%20conversations,efficiency%20and%20clinical%20decision%20support.
