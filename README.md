@@ -2,11 +2,9 @@
 
 ## *Introduction*
 <p> AI is being utilized for increasing efficiency in time management and helping provide quality interaction between physician and patient, during the point of contact. </p>
-* The company of interest for my AI case study is Augmedix. 
-* <p> The compamy was incorporated in 2012, by two Stanford graduates. It is based in San Francisco, USA, and they have additional offices in Bangladesh, India. They have plans to expand into Sri Lanka and Dominican Republic in the future. </p>
-* The founders of Augmedix are Ian Kazi Shakil and Pelu Tran. 
-* <p> The idea for the start-up came about after Shakil graduated in Biomedical Engineering from Duke, and moved to San Francisco. He started woring in healthcare, for Edwards Life Sciences; and their customers were cardiology practices. While working there for the cardiology groups; he observed the struggles that physician had while dealing with EMR's and documentation after patient encounters. That observation influenced the commencement of their journey. The other founder Pelu, dropped out of medical school to partner with Shakil, to form the start-up Augmedix. They initially called it "glass business" because they were using google glasses then. </p> 
-* <p> When they started, they had only around 10 to 20 employees in the initial 2 years. The google glasses that were being used, basically enabled the physician while interacting with their patiens to dictate through them. This dictation was transmitted to a recording device. This recording would be then get scribed by scribers. Then, this would appear into script format and ultimately be made available on the patient's EMR for the EHR programs such as Epic of Cerner and become permanent records of the patient's chart. </p>
+<p> The company of interest for my AI case study is Augmedix. The compamy was incorporated in 2012, by two Stanford graduates. It is based in San Francisco, USA, and they have additional offices in Bangladesh, India. They have plans to expand into Sri Lanka and Dominican Republic in the future. </p>
+<p> The founders of Augmedix are Ian Kazi Shakil and Pelu Tran. The idea for the start-up came about after Shakil graduated in Biomedical Engineering from Duke, and moved to San Francisco. He started woring in healthcare, for Edwards Life Sciences; and their customers were cardiology practices. While working there for the cardiology groups; he observed the struggles that physician had while dealing with EMR's and documentation after patient encounters. That observation influenced the commencement of their journey. The other founder Pelu, dropped out of medical school to partner with Shakil, to form the start-up Augmedix. They initially called it "glass business" because they were using google glasses then. </p> 
+<p> In the initial 2 years, they had only around 10 to 20 employees. The google glasses that were being used, basically, enabled the physician to dictate through them while interacting with their patients. This dictation was transmitted to a recording device. This recording would be then get scribed by scribers. This completed scirpt would be made available on the patient's EMR for the EHR programs such as Epic of Cerner and become permanent records of the patient's chart. </p>
 
 ## *Business Activities of Augmedix* <br>
 * <p> Augmedix tapped into the issue that is playing out in every busy ER in a hospital. The issue of the high volume and inflow of patients needing to be evaluated, treated and triaged. The physicians have limited time between multiple patient interactions, making a diagnosis based on history provided by the patient or family, at the point of contact, then providing clinical care and documentation onto the EHR of the patient's chart. If the patient is brand new to the healthsystem, then documenting all this information before triaging the patient or discharging with limited treatment is vital. So, Augmedix is being used in the documentation part of patient care. According to the company's website "it can save the physician valuable time that can be dedicated to acutal clinical care". </p>
@@ -15,11 +13,7 @@
 ### *Clientele and Reason* <br>
 <p> The intended customer base for Augmedix is the clinician. </p>
 <p> "Why Augmedix?" <br>
-"Augmedix puts the clinician-patient relationship front and center by delivering industry-leading, ambient medical documentation products to healthcare systems, physician practices and hospitals". Their website, exhibits the following: 
- > - "3 Hours/day Save Up To 3 Hours Per Day
- > - 20% Increase in Productivity
- > - 40% Improvement in Work-Life Satisfaction
- > - 35% Increase in Patient Satisfaction" 
+"Augmedix puts the clinician-patient relationship front and center by delivering industry-leading, ambient medical documentation products to healthcare systems, physician practices and hospitals". Their website, exhibits the following: "3 Hours/day Save Up To 3 Hours Per Day; 20% Increase in Productivity; 40% Improvement in Work-Life Satisfaction; 35% Increase in Patient Satisfaction". 
 
 ## *Funding* <br>
 * <p> The details of the investment or funding are available on google. 
